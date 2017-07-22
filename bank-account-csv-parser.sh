@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #echo "Download csv file(s) from Lloyds online banking"
 #echo "Pass file(s) to the script"
 #echo "This assumes a USA locale set in File->Spreadsheet settings"
