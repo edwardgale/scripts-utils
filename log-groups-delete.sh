@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 for i in `aws logs   describe-log-groups | jq  '.[] | .[].logGroupName' | sed 's:"::g'`
 do
