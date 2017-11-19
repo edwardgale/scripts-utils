@@ -1,0 +1,21 @@
+{
+  "name": "api-utils",
+  "version": "0.1.0",
+  "description": "",
+  "main": "add-fulfillment-lambda-permissions.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "aws-sdk": "^2.153.0",
+    "bluebird": "^3.5.1",
+    "bluebird-retry": "^0.11.0",
+    "debug": "^3.1.0",
+    "retry-bluebird": "^0.1.1",
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
